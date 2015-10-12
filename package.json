@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "johnny-five": "^0.8.91"
+  },
+  "dependencies": {
+    "j5-songs": "0.0.8"
   }
 }

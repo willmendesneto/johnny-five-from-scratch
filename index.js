@@ -1,7 +1,8 @@
 var codeExample = process.argv[2];
 
 var CODE_EXAMPLES = [
-    'blink'
+    'blink',
+    'piezo'
 ];
 
 if (CODE_EXAMPLES.indexOf(codeExample) === -1) {
