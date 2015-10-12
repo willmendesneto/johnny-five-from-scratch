@@ -8,10 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "johnny-five": "^0.8.91"
-  },
   "dependencies": {
+    "johnny-five": "^0.8.91",
     "j5-songs": "0.0.8"
   }
 }
