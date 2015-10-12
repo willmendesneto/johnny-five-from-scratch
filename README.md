@@ -20,6 +20,7 @@ $ node index.js <example>
 ## Examples
 
 - [Blink](examples/blink)
+- [Piezo](examples/piezo)
 
 ## Slides
 
